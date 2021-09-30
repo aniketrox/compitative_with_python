@@ -1,4 +1,4 @@
-a = int(input('Enter3your first integer value: '))
+a = int(input('Enter your first integer value: '))
 b = int(input('Enter your second integer value:'))
 
 if a%b == 0:
